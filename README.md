@@ -1,1 +1,1 @@
-#  I do not collect any data.
+# I do not collect any data.
