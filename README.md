@@ -1,1 +1,1 @@
-# I don't collect data.
+# I do not collect any data from my users (never have, never will)
